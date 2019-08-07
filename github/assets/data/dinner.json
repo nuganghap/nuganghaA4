@@ -1,0 +1,11 @@
+{
+    "dinnerMenu" :[
+         
+          {"NameofFood": "Chicken Rice","price": "$20.56", "calories":"75"},
+         {"NameofFood": "Bacon-homefries","price": "$14.78", "calories":"400"},
+         {"NameofFood": "Toast-turkey","price": "$45", "calories":"100"}
+ 
+    ]
+   
+ 
+ }

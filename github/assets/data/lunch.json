@@ -1,0 +1,11 @@
+
+{
+   "lunchMenu" :[
+        {"NameofFood": "Eggs and omlettes","price": "$25.56", "calories":"154"},
+         {"NameofFood": "Ham and sausage","price": "$24.78", "calories":"200"},
+         {"NameofFood": "French toast","price": "$35.67", "calories":"350"}
+
+   ]
+  
+
+}

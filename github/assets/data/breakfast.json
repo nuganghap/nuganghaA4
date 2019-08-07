@@ -1,0 +1,13 @@
+
+{
+    "breakfastMenu": 
+	[
+	
+        {"NameofFood": "pancakes & Egg","price": "$12.56", "calories":"100"},
+         {"NameofFood": "Homefries","price": "$24.78", "calories":"176"},
+         {"NameofFood": "Sandwiches","price": "$15", "calories":"450"}
+ 
+
+        
+    ]
+}
